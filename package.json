@@ -1,0 +1,16 @@
+{
+  "name": "lionsale",
+  "version": "1.0.0",
+  "description": "full cycle agency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "marketing",
+    "sales",
+    "analytics"
+  ],
+  "author": "Diana Zakirova <zakirovadiana.mk@gmail.com>",
+  "license": "ISC"
+}
